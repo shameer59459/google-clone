@@ -1,4 +1,4 @@
-```
+
 # 🔍 Google Search Clone
 
 This is a Google search clone built in **React 18** that allows users to search for any query and display the results in a familiar and responsive layout, similar to Google's search results.
