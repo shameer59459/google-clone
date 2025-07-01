@@ -1,55 +1,97 @@
 ```
-# Google Search Clone
+# 🔍 Google Search Clone
 
-This is a Google search clone built in React that allows users to search for any query and display the results in a familiar way.
+This is a Google search clone built in **React 18** that allows users to search for any query and display the results in a familiar and responsive layout, similar to Google's search results.
 
-## Table of Contents
-- Installation
-- Usage
-- Features
-- Technologies Used
-- Contributing
-- License
+---
 
-## Installation
+## 📑 Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## ⚙️ Installation
+
 To run this project locally, follow these steps:
 
-1. Clone the repository to your local machine  
-   `git clone https://github.com/your-username/google-search-clone.git`
+1. **Clone the repository to your local machine:**
+   ```bash
+   git clone https://github.com/<your-username>/google-search-clone.git
+   ```
 
-2. Navigate to the project directory and install dependencies:  
-   `npm install`
+2. **Navigate to the project directory:**
+   ```bash
+   cd google-search-clone
+   ```
 
-3. Start the development server:  
-   `npm run dev`
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
 
-4. Open your browser and go to:  
-   `http://127.0.0.1:5173/`
+4. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
 
-## Usage
-To use the search functionality, simply type in your query in the search bar and hit **Enter** or click the **Search** button.  
-The results will be displayed in the **"All"** tab by default, but you can also switch to the **"Images"** tab to search for images.
+5. **Open your browser and go to:**
+   ```
+   http://127.0.0.1:5173/
+   ```
 
-## Features
-- Search for any query using the **Google Custom Search API**
-- Display search results in a familiar way
-- Switch between **"All"** and **"Images"** tabs
-- Mobile-first responsive design
+---
 
-## Technologies Used
-- React 18 and its latest features
-- React functional components and their reusability
-- React hooks and state management
-- React routing
-- Context API for global state management
-- Mobile-first responsive approach
-- Axios for fetching data from the Google Custom Search API
+## 🌐 Usage
 
-## Contributing
-Contributions to this project are welcome!  
-If you find any bugs or have suggestions for new features, please open an issue or submit a pull request.
+- Type a query into the **search bar**
+- Press **Enter** or click the **Search** button
+- Results will be shown under the **"All"** tab
+- Switch to the **"Images"** tab for image results
 
-## License
+---
+
+## ✨ Features
+
+- 🔎 Search for any query using the **Google Custom Search API**
+- 🧭 Display search results in a **Google-like interface**
+- 🖼️ Switch between **"All"** and **"Images"** tabs
+- 📱 Mobile-first, fully responsive design
+
+---
+
+## 🛠 Technologies Used
+
+- ⚛️ **React 18** and its latest features
+- 🧱 **Functional Components** and reusability
+- 🔁 **React Hooks** for state management
+- 🌐 **React Router** for page navigation
+- 🧠 **Context API** for global state
+- 📱 **Responsive design** using modern CSS
+- 🌍 **Axios** to fetch data from the Google Custom Search API
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+If you find bugs or have suggestions for new features, feel free to:
+
+- Open an issue  
+- Submit a pull request
+
+We appreciate your help in improving this project!
+
+---
+
+## 📄 License
+
 This project is licensed under the **MIT License**.
-```
 
+> Built with ❤️ using React & Google Custom Search API
+```
